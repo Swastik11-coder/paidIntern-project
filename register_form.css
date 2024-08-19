@@ -1,0 +1,30 @@
+.form-heading{
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 40;
+    padding-bottom: 20px;
+}
+.error-message{
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.gender-field-heading{
+    color: #212529;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.container{
+    background-color: #f5e489;
+    padding: 20px;
+    border-radius: 10px;
+}
+.submit-btn{
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}

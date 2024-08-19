@@ -1,0 +1,277 @@
+
+.elearning-logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+#navItem1 {
+    color: #183b56;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #183b56;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #183b56;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #183b56;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://images.ctfassets.net/lwoaet07hh7w/LegacyHeroImage_39212f73d0509ac337246a16518c22c828d7f389/448a8b814efaf0bf624b9b422fa608ab/lightstock_154848_small_user_43216288.jpg?fl=progressive&fm=jpg&w=1920");
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+}
+
+.starting-card {
+    background-color: white;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.banner-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 24px;
+
+    font-weight: 300;
+
+}
+
+.register-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.read-more-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.home-section {
+    background-color: #f9fbfe;
+}
+
+.home-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.home-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.home-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.home-card-image {
+    width: 100px;
+    height: 90px;
+}
+
+.home-card-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.home-card-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #183b56;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.course-section {
+    background-color: white;
+}
+
+.course-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.course-image {
+    border-radius: 16px;
+    height: 300px;
+    width: 300px;
+}
+
+.course-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.courses-link {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 14px;
+
+    font-weight: 500;
+}
+
+.course-card {
+    border-radius: 16px;
+}
+
+.about-us-section {
+    background-color: #f9fbfe;
+}
+
+.goal-section-img {
+    width: 270px;
+    border-radius: 15px;
+}
+
+.goals-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.goals-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+.resume-building-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.resume-building-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+.thanking-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-section-modal-title {
+    color: #183b56;
+    font-weight: 800;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #a58d00;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
